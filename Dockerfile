@@ -31,6 +31,7 @@ RUN apt-get update \
     RColorBrewer \
     RandomFields \
     RNetCDF \
+    tsibble \
     classInt \
     deldir \
     gstat \
