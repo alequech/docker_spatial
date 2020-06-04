@@ -56,6 +56,9 @@ RUN apt-get update \
     spdep \
     geoR \
     geosphere \
+    geostatsp \
+    ggmap \ 
+    xlsx \
     googledrive \ 
     ## from bioconductor
     && R -e "BiocManager::install('rhdf5')"  \
